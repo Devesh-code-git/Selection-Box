@@ -1,3 +1,3 @@
 # Selection-Box
 
-![](Selection-Box/Box.png)
+![](Box.png)
